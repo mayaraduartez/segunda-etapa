@@ -1,0 +1,32 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_invoices&Sequence_1",
+        "dateDueInvoice&Sequence_5",
+        "strTotalDue&Sequence_5",
+        "strCompanyName&Sequence_5",
+        "strInvoiceDate&Sequence_5",
+        "strInvoiceNumber&Sequence_5",
+        "strInvoiceText&Sequence_5",
+        "imgInvoice&Sequence_5",
+        "intIndex&Sequence_4",
+        "strInvoicePath&Sequence_5",
+        "ExtractDataTable&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
